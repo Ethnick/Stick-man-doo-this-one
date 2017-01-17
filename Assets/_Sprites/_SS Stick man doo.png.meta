@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 18daae6e52cdd3f4390bf1fa0b979d39
+timeCreated: 1484619317
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Antenna_R
+    21300002: Antenna_L
+    21300004: Upper Hand
+    21300006: _Head
+    21300008: Brow_R
+    21300010: Brow_L
+    21300012: bandanna
+    21300014: Eye_R
+    21300016: Eye_L
+    21300018: Upper bandaged elbow
+    21300020: Upper elbow
+    21300022: Mouth
+    21300024: Joint
+    21300026: Upper arm
+    21300028: Mid Nub
+    21300030: _Mid Body
+    21300032: Mid hand
+    21300034: Mid arm
+    21300036: Mid elbow
+    21300038: Leg Thigh
+    21300040: _Lower body
+    21300042: _SS Stick man doo_21
+    21300044: Leg shin
+    21300046: Leg foot
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 1
+    mipMapFadeDistanceStart: 0
+    mipMapFadeDistanceEnd: 4
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Antenna_R
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1723
+        width: 59
+        height: 111
+      alignment: 9
+      pivot: {x: 0.825847, y: 0.096196905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Antenna_L
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1732
+        width: 53
+        height: 102
+      alignment: 9
+      pivot: {x: 0.85582346, y: 0.102986656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Upper Hand
+      rect:
+        serializedVersion: 2
+        x: 285.5
+        y: 1527
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: 0.51571685, y: 0.11852877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Head
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1183
+        width: 196
+        height: 510
+      alignment: 9
+      pivot: {x: 0.48179936, y: 0.030474497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brow_R
+      rect:
+        serializedVersion: 2
+        x: 871.00006
+        y: 1612
+        width: 71.99988
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brow_L
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1620
+        width: 50
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandanna
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1504
+        width: 97
+        height: 110
+      alignment: 9
+      pivot: {x: 0.876008, y: 0.8281516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eye_R
+      rect:
+        serializedVersion: 2
+        x: 871.00006
+        y: 1448
+        width: 70.99994
+        height: 142
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eye_L
+      rect:
+        serializedVersion: 2
+        x: 977.00006
+        y: 1460
+        width: 68.99994
+        height: 138
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Upper bandaged elbow
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1342
+        width: 81
+        height: 226
+      alignment: 9
+      pivot: {x: 0.48765433, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Upper elbow
+      rect:
+        serializedVersion: 2
+        x: 280.5
+        y: 1237
+        width: 80
+        height: 226
+      alignment: 9
+      pivot: {x: 0.25847396, y: 0.07693671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mouth
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1282
+        width: 63.00006
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Joint
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1312
+        width: 134
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Upper arm
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 984.49994
+        width: 246
+        height: 220.00006
+      alignment: 9
+      pivot: {x: 0.08289315, y: 0.07448118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mid Nub
+      rect:
+        serializedVersion: 2
+        x: 389.00003
+        y: 954
+        width: 170.99997
+        height: 186
+      alignment: 9
+      pivot: {x: 0.13860711, y: 0.09879459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Mid Body
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 675
+        width: 170
+        height: 453
+      alignment: 9
+      pivot: {x: 0.45846236, y: 0.03945121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mid hand
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1075
+        width: 118
+        height: 113
+      alignment: 9
+      pivot: {x: 0.32467806, y: 0.23749374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mid arm
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 694
+        width: 231
+        height: 216
+      alignment: 9
+      pivot: {x: 0.106694475, y: 0.14287144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mid elbow
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 877
+        width: 171
+        height: 186
+      alignment: 9
+      pivot: {x: 0.14686558, y: 0.08990839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg Thigh
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 286
+        width: 234
+        height: 255
+      alignment: 9
+      pivot: {x: 0.11173673, y: 0.8697338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _Lower body
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 381
+        width: 135
+        height: 254
+      alignment: 9
+      pivot: {x: 0.51215726, y: 0.9200014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: _SS Stick man doo_21
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 262
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg shin
+      rect:
+        serializedVersion: 2
+        x: 463.49997
+        y: 74
+        width: 81.00003
+        height: 191
+      alignment: 9
+      pivot: {x: 0.30982563, y: 0.8950364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg foot
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 103
+        height: 62
+      alignment: 9
+      pivot: {x: 0.18427284, y: 0.75107515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 97300521387175
+  assetBundleName: 
+  assetBundleVariant: 
